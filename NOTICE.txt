@@ -1,0 +1,33 @@
+This distribution incorporates the following 3rd-party data:
+
+------------------------------
+tz_world
+
+files:
+ tz_world_mp.dbf
+ tz_world_mp.shp
+ tz_world_mp.prj
+
+Source: http://efele.net/maps/tz/world/
+
+> Terms of use
+> (http://i.creativecommons.org/l/zero/1.0/80x15.png)
+> To the extent possible under law, Eric Muller has waived all copyright and 
+> related or neighboring rights to the efele.net/tz maps (comprising the shapefiles, 
+> the web pages describing them and the scripts and data used to build them). This 
+> work is published from the United States of America.
+> 
+> Note that this does not affect the rights others may have. I am not qualified to 
+> determine whether such rights exist.
+
+------------------------------
+tz database
+
+file:
+ zone.tab
+
+Terms of use 
+> # This file is in the public domain, so clarified as of
+> # 2009-05-17 by Arthur David Olson.
+ 
+------------------------------
