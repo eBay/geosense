@@ -1,3 +1,6 @@
+Note: The active fork of this project is https://github.com/fdrusso/geosense
+
+
 GeoSense
 ========
 
