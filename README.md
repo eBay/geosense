@@ -1,3 +1,6 @@
+Archived Project
+================
+This project is now archived.
 Note: The active fork of this project is https://github.com/fdrusso/geosense
 
 
